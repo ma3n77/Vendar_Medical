@@ -449,6 +449,12 @@ body {
         width: fit-content;
         height: fit-content;
     }
+    
+     .content {
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
 
     .content-bio a {
         width: fit-content;
